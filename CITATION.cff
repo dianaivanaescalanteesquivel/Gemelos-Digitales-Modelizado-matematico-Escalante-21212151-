@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Diana Ivana
+    family-names: Escalante Esquivel
+    email: l21212151@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: >-
+  https://github.com/dianaivanaescalanteesquivel/Gemelos-Digitales-Sistema-presa-depredador-de-Lotka-Volterra-Escalante-21212151-/tree/main
+abstract: |-
+  Tecnológico Nacional de México
+  Instituto Tecnológico de Tijuana
+  Ingeniería Biomédica
+  Gemelos Digitales
+  Práctica 2: Sistema presa-depredador de Lotka-Volterra
+keywords:
+  - Método de Euler
+  - Método de Heun
+  - Solucionadores Stiff y Nonstiff
+  - Modelo lineal
+  - Sistema Lotka-Volterra
+  - Macrófagos
+  - Mycobacterium Tuberculosis
+license: BSD-2-Clause
+date-released: '2025-02-10'
