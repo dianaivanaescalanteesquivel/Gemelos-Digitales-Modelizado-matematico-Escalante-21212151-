@@ -19,14 +19,12 @@ abstract: |-
   Instituto Tecnológico de Tijuana
   Ingeniería Biomédica
   Gemelos Digitales
-  Práctica 2: Sistema presa-depredador de Lotka-Volterra
+  Práctica 4: Modelizado matemático
 keywords:
-  - Método de Euler
   - Método de Heun
-  - Solucionadores Stiff y Nonstiff
-  - Modelo lineal
-  - Sistema Lotka-Volterra
-  - Macrófagos
-  - Mycobacterium Tuberculosis
+  - Ecuaciones diferenciales ordinarias
+  - Matriz Jacobiana
+  - Puntos de equilibrio
+  - Valores propios
 license: BSD-2-Clause
-date-released: '2025-02-10'
+date-released: '2025-04-07'
